@@ -22,10 +22,9 @@ body
    bottom: 0;
    left: 0;
    outline: 0px solid transparent;
-   margin-top: 200px;
-   margin-bottom: 200px;
-   margin-right: 620px;
-   margin-left: 620px;
+   margin-top: 50px;
+   margin-right: 90px;
+   margin-left: 90px;
    font-size: 1vw;
    font-family: 'JetBrains Mono', monospace;
    display: inline !important;
@@ -67,6 +66,16 @@ body
 
 .show {display: block;}
 
+#page {
+
+    margin-left: 10px;
+    font-size: 15px;
+    height: 30px;
+    position: absolute;
+    top: 60px;
+    right: 25px;
+    color: gray;
+}
 
 /* logo */
 
